@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872582145499",
+    "project_id": "ipldata-f1614",
+    "storage_bucket": "ipldata-f1614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872582145499:android:c668f23cf7ae32966773fe",
+        "android_client_info": {
+          "package_name": "com.example.blog_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7aELsLYlxsYhQXD_0OVZ2ZgZwre0HrxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
